@@ -23,7 +23,3 @@ The game also includes **power-ups**:
 - **Language:** C#  
 - **Genre:** Hyper-casual / Endless Runner  
 
----
-
-## 👤 Author
-- [Simran Nagekar](https://github.com/breeze-sn)
