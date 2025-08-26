@@ -8,7 +8,7 @@ The game also includes **power-ups**:
 - 🧲 Magnet – attracts coins  
 - ⚡ Boost – gives a speed burst  
 
----
+
 
 ## 🚀 How to Play
 1. Move the ball upward and avoid obstacles.  
@@ -16,7 +16,7 @@ The game also includes **power-ups**:
 3. Use power-ups strategically.  
 4. Survive as long as possible and aim for a high score! 🏆  
 
----
+
 
 ## ⚙️ Tech
 - **Engine:** Unity  
